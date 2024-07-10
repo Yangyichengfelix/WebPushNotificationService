@@ -1,0 +1,6 @@
+@WebPushNotificationService_HostAddress = http://localhost:5232
+
+GET {{WebPushNotificationService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
